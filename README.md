@@ -7,10 +7,10 @@ currently learning systems programming and embedded stuff. most of my projects a
 
 ## projects
 
-- [demoscene](https://github.com/anshaljkk/demoscene) - 3d renderer thing, still has bugs
-- [bytebeat-synth](https://github.com/anshaljkk/bytebeat-synth) - makes weird sounds on arduino
-- [linux-telemetry](https://github.com/anshaljkk/linux-telemetry) - reads cpu/ram and sends to arduino, kinda works
-- [game-engines](https://github.com/anshaljkk/game-engines) - physics sim + terminal game, wip
+- [demoscene](https://github.com/anshaljkk/demoscene) - 3d renderer
+- [bytebeat-synth](https://github.com/anshaljkk/bytebeat-synth) - makes sounds on arduino
+- [linux-telemetry](https://github.com/anshaljkk/linux-telemetry) - reads cpu/ram and sends to arduino
+- [gameengines](https://github.com/anshaljkk/gameengines) - physics sim + terminal game, wip
 
 ---
 
